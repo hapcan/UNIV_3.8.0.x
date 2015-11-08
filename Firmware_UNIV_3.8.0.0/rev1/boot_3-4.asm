@@ -25,8 +25,8 @@
 ;==============================================================================
     #define     ID0     0x00            ;node serial number MSB
     #define     ID1     0x00            ;node serial number
-    #define     ID2     0x07            ;node serial number
-    #define     ID3     0xEc            ;node serial number LSB
+    #define     ID2     0x00            ;node serial number
+    #define     ID3     0x01            ;node serial number LSB
 ;==============================================================================
 ;===  NEEDED FILES  ===========================================================
 ;==============================================================================
